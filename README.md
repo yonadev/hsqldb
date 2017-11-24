@@ -1,3 +1,7 @@
+[![Docker Stars](https://img.shields.io/docker/stars/yonadev/hsqldb.svg)](https://hub.docker.com/r/yonadev/hsqldb/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/yonadev/hsqldb.svg)](https://hub.docker.com/r/yonadev/hsqldb/)
+[![Docker Automated build](https://img.shields.io/docker/automated/yonadev/hsqldb.svg)](https://hub.docker.com/r/yonadev/hsqldb/)
+
 Basic HSQLDB image 
 ==================================
 
